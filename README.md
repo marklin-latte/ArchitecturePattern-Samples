@@ -1,0 +1,2 @@
+# ArchitecturePattern-Samples
+ArchitecturePattern-Sample
